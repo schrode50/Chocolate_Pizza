@@ -1,0 +1,41 @@
+/*@import url ("normalize.css");
+@import url ("skeleton.css");*/
+
+body {
+  border-style: dashed;
+}
+header {
+  border-style: double;
+}
+.hRight {
+  float: right;
+}
+.lStuff {
+  font-family: lobster, sans-serif;
+  border-style: double;
+}
+footer {
+  display: inline;
+}
+button {
+  float: right;
+}
+
+li {
+  list-style: none;
+
+}
+
+.strike{
+  text-decoration:line-through;
+}
+.mainPic {
+  max-width: 100%;
+}
+.list {
+  background-image: url(Images/list-bg.png);
+}
+#right {
+  display: flex;
+  justify-content: flex-end;
+}
