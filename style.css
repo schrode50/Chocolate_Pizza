@@ -2,17 +2,17 @@
 @import url ("skeleton.css");*/
 
 body {
-  border-style: dashed;
+  /*border-style: dashed;*/
 }
 header {
-  border-style: double;
+  /*border-style: double;*/
 }
 .hRight {
   float: right;
 }
 .lStuff {
   font-family: lobster, sans-serif;
-  border-style: double;
+  /*border-style: double;*/
 }
 footer {
   display: inline;
